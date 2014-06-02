@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="invader_clone">
+</Property><Property Name="Solution File" Value="C:\Users\Scott\Desktop\SimpleSamples\invader_clone\invader_clone.sln">
+</Property><Property Name="Date" Value="Sunday, April 10, 2011">
+</Property><Property Name="Time" Value="12:36 PM">
+</Property><Property Name="Solution" Value="invader_clone">
+</Property><Property Name="Solution File" Value="C:\Users\Scott\Desktop\SimpleSamples\invader_clone\invader_clone.sln">
+</Property><Property Name="Date" Value="Sunday, April 10, 2011">
+</Property><Property Name="Time" Value="12:36:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="invader_clone" Source="invader_clone\invader_clone.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="invader_clone" Source="invader_clone\invader_clone.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="invader_clone" Source="invader_clone\invader_clone.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="invader_clone.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="invader_clone.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="invader_clone" Source="invader_clone\invader_clone.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="invader_clone" Source="invader_clone\invader_clone.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="invader_cloneContent" Source="invader_clone\Content\invader_cloneContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

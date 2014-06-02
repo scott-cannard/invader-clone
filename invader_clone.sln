@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invader_clone", "invader_clone\invader_clone.csproj", "{91B4D670-21B2-47BA-AFB7-82EAB5909698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invader_cloneContent", "invader_clone\Content\invader_cloneContent.contentproj", "{A78D2552-3750-4B59-B5A2-6EB91A5ADC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B4D670-21B2-47BA-AFB7-82EAB5909698}.Debug|x86.ActiveCfg = Debug|x86
+		{91B4D670-21B2-47BA-AFB7-82EAB5909698}.Debug|x86.Build.0 = Debug|x86
+		{91B4D670-21B2-47BA-AFB7-82EAB5909698}.Release|x86.ActiveCfg = Release|x86
+		{91B4D670-21B2-47BA-AFB7-82EAB5909698}.Release|x86.Build.0 = Release|x86
+		{A78D2552-3750-4B59-B5A2-6EB91A5ADC9D}.Debug|x86.ActiveCfg = Debug|x86
+		{A78D2552-3750-4B59-B5A2-6EB91A5ADC9D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
